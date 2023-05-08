@@ -21,3 +21,24 @@
     display: inline-block;
     margin: 0 16px;
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.historico{
+    background-image: linear-gradient(#d9627b,#ffffff);
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.historico-texto{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
