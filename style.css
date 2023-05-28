@@ -26,11 +26,16 @@ body{
     margin: 0 16px;
 }
 
+.imagem-lista-item a{
+    text-decoration: none;
+    color: #D7D9D7;
+}
+
 .logo-imagem{
     width: 50%;
 }
 
-.turmas{
+#turmas{
     background-image: linear-gradient(#171810,#646E68);
     color: #D7D9D7;
     display: flex;
